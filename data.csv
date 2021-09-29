@@ -1,31 +1,23 @@
-ID	Shop	Inner_Outer	Variable_1	Variable_2	Variable_3	Address	Product_1_Price	Product_2_Price
-1		Inner						
-2		Inner						
-3		Inner						
-4		Inner						
-5		Inner						
-6		Inner						
-7		Inner						
-8		Inner						
-9		Inner						
-10		Inner						
-11		Inner						
-12		Inner						
-13		Inner						
-14		Inner						
-15		Inner						
-16		Outer						
-17		Outer						
-18		Outer						
-19		Outer						
-20		Outer						
-21		Outer						
-22		Outer						
-23		Outer						
-24		Outer						
-25		Outer						
-26		Outer						
-27		Outer						
-28		Outer						
-29		Outer						
-30		Outer						
+ID,Name,Address,Inner_Outer,"Size (Small, Medium, Large)",Num_Cashiers,Chain (Y/N),0.5 Cola (plastic bottle),Snickers 50g,Discount_Prod1,Discount_Prod2
+1,M&Q Vegyesbolt,Józef krt. 10,Inner,Small,1,N,250,130,N,N
+2,H&H VinMart,Józef krt. 18,Inner,Small,1,N,289,150,N,N
+3,Szuper Diszkoni,Rákóczi tér 6,Inner,Small,1,N,280,180,N,N
+4,Spar,Baross utca 56,Inner,Medium,3,Y,294,274,N,N
+5,Penny Market,József krt. 45,Inner,Medium,6,Y,259,179,N,N
+6,Tesco Expressz,Rákóczi út 1-3,Inner,Medium,5,Y,275,199,N,N
+7,Vili,Rákóczi út 9,Inner,Small,2,N,279,169,N,N
+8,Spar,Rákóczi út 19,Inner,Medium,5,Y,259,179,N,N
+9,Roni ABC Élelmiszer,Rákóczi út 24,Inner,Small,2,N,319,199,N,N
+10,Tesco Expressz,Rákóczi út 20,Inner,Medium,3,Y,275,199,N,N
+11,OMV Spar,Soroksári út 166b,Outer,Small,1,Y,315,210,N,N
+12,Élelmiszer Diszkont Capital Pub Bt.,Baross u. 5/A,Outer,Small,1,N,289,200,N,N
+13,Spar,Baross u. 5,Outer,Medium,2,Y,259,189,N,N
+14,Interspar,Széchenyi u. 1,Outer,Large,12 + 6,Y,259,189,N,N
+15,Penny,Topánka u.,Outer,Medium,5,Y,259,179,N,N
+16,Szuper Diszkont,Nagysándor József u. 45,Outer,Small,1,N,280,180,N,N
+17,Inmedio,Kossuth Lajos utca 29,Outer,Small,1,N,329,239,N,N
+18,Thai Gold Supermarket,Kossuth Lajos utca 31,Outer,Small,1,N,290,130,N,N
+19,Príma,Kossuth Lajos utca 33,Outer,Medium,6,Y,299,189,N,N
+20,Vegyeskereskedés Linda Family Kft.,Kossuth Lajos utca 22-28,Outer,Small,1,N,250,120,N,N
+21,Vegyeskereskedés Diszkont,Kossuth Lajos utca 32,Outer,Small,1,N,250,120,N,N
+22,Prémium Élelmiszer,Kossuth Lajos utca 36,Outer,Small,1,N,330,179,N,N
